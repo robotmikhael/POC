@@ -125,6 +125,18 @@ Apalagi kalau akun si User belum diverifikasi , merupakan suatu keberuntungan ka
 - https://id.m.wikipedia.org/wiki/XSS <br>
 - https://logsmylife.wordpress.com/2009/05/14/xplodecms-cross-site-scripting-xss-injection/ <br> <br>
 
+### Timeline :
+- Minggu , 7 April 2019 : menemukan bug , mencari solusi bypass, sukses mendapat cara untuk bypass.
+- Rabu , 10 April 2019 : menuliskan rincian bug di pastebin
+- Kamis , 11 April 2019 : memulai menulis artikel write up via Github
+- Jumat , 12 April 2019 : • Jam 10.00 WIB mengirim laporan penemuan bug via email cs@zepetto.id  dan juga fanpage Point Blank Zepetto Indonesia
+                          • Jam 11.00 WIB mendapat balasan dari Atomatic Reply , yang menyarankan saya untuk melapor via tiket langsung di website
+			  • Jam 11.30 WIB melakukan pelaporan via ticket
+			  • Jam 15.00 WIB bug dinyatakan valid dan langsung dipatch .<br><br>
+			
+			
+			
+
 ### Penutup :
 ***Sekian Write Up dan Proof Of Concept dari saya . Jika ada salah dalam penggunaan kata , semoga dapat dimaafkan . <br> 
 Pesan saya untuk Bug Hunter lain yang mungkin tidak memiliki fasilitas (laptop/PC) jangan patah semangat , karena seperti saya hanya berbekal Smartphone Android pun kamu tetap bisa selama ada kemauan untuk belajar dan effort yang keras . Terima kasih ! <br>
