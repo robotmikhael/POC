@@ -130,10 +130,10 @@ Apalagi kalau akun si User belum diverifikasi , merupakan suatu keberuntungan ka
 - Rabu , 10 April 2019 : menuliskan rincian bug di pastebin
 - Kamis , 11 April 2019 : memulai menulis artikel write up via Github
 - Jumat , 12 April 2019 : 
-• Jam 10.00 WIB mengirim laporan penemuan bug via email cs@zepetto.id  dan juga fanpage Point Blank Zepetto Indonesia
-• Jam 11.00 WIB mendapat balasan dari Atomatic Reply , yang menyarankan saya untuk melapor via tiket langsung di website
-• Jam 11.30 WIB melakukan pelaporan via ticket
-• Jam 15.00 WIB bug dinyatakan valid dan langsung dipatch .<br>
+• Jam 10.00 WIB mengirim laporan penemuan bug via email cs@zepetto.id  dan juga fanpage Point Blank Zepetto Indonesia<br>
+• Jam 11.00 WIB mendapat balasan dari Atomatic Reply , yang menyarankan saya untuk melapor via tiket langsung di website<br>
+• Jam 11.30 WIB melakukan pelaporan via ticket<br>
+• Jam 15.00 WIB bug dinyatakan valid dan langsung dipatch .<br><br>
 			
 			
 			 
