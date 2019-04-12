@@ -133,7 +133,7 @@ Apalagi kalau akun si User belum diverifikasi , merupakan suatu keberuntungan ka
 • Jam 10.00 WIB => mengirim laporan penemuan bug via email cs@zepetto.id  dan juga fanpage Facebook Point Blank Zepetto Indonesia<br>
 • Jam 11.00 WIB => mendapat balasan dari Atomatic Reply , yang menyarankan saya untuk melapor via tiket langsung di website<br>
 • Jam 11.30 WIB => melakukan pelaporan via ticket<br>
-• Jam 15.00 WIB => bug dinyatakan valid dan langsung dipatch .<br><br>
+• Jam 15.00 WIB => bug dinyatakan valid dan langsung dipatch > admin mengucapkan **Terima kasih** 😌<br><br>
 			
 			
 			 
