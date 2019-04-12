@@ -6,7 +6,7 @@
 
 ## Apa itu Open Redirect Vulnerability ??
 Berdasarkan https://s0cket7.com/open-redirect-vulnerability/ dapat disimpulkan bahwa : <br>
-**Open Redirect** atau **Pengalihan Terbuka** adalah jenis celah/bug yang memungkinkan seseorang (miasalkan : seorang **Attacker/Hacker**) untuk mengalihkan sebuah situs web (*Website Victim*)
+**Open Redirect** atau **Pengalihan Terbuka** adalah jenis celah/bug yang memungkinkan seseorang (misalkan : seorang **Attacker/Hacker**) untuk mengalihkan sebuah situs web (*Website Victim*)
 menuju ke situs web apapun tanpa adanya ~~peringatan~~ akan meninggalkan situs tersebut.
 
 ## Apa itu XSS Injection ?? 
