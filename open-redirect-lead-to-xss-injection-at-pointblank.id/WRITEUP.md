@@ -110,7 +110,7 @@ Agar sang korbang tidak curiga , si Attacker melakukan encode pada url tersebut 
 ![ss_email_user](https://robotmikhro.github.io/img/IMG_20190412_080527.jpg) <br>
 3. **User mengklik link tersebut dengan segera dan Walaaa ! :** <br>
 ![gif_si_user_mengklik_link](https://robotmikhro.github.io/img/Screenrecorder201904120815.gif) <br>
-Sampai pada tahap ini Attacker sudah berhasil melakukan social engineering dan mengelabui User serta mencurinya cookienya .😌 <br>
+Sampai pada tahap ini Attacker sudah berhasil melakukan social engineering dan mengelabui User serta mencuri cookienya .😌 <br>
 Apalagi kalau akun si User belum diverifikasi , merupakan suatu keberuntungan karena sang Attacker bisa saja dengan mudah mengganti password akun User dan memasukkan emailnya untuk verifikasi akun sehingga Korban/User sama sekali tidak dapat mengakses akunnya lagi.😟 <br><br>
 
 
