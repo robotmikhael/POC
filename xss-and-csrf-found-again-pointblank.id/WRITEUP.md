@@ -5,4 +5,4 @@
 
 ## 🔥 Proff Of Concept 🔥
 Setelah beberapa hari yang lalu saya menemukan dan melaporkan bug **open redirect lead to xss** pada website PB Zepetto dan mendapat hadiah *2M*. Kali ini saya kembali iseng mencari bug pada website tersebut. Saya membuka setiap halaman pada website lalu menemukan halaman *[faq](https://www.pointblank.id/faq/list)*. <br>
-
+![ss_halaman_faq](https://robotmikhael.github.io/img/IMG_20190415_102635.jpg)
