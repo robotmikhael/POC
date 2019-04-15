@@ -4,5 +4,5 @@
 > Tags : [#bugbounty](https://www.google.com/search?q=bugbounty) [#xss](https://www.google.com/search?q=xss) [#csrf](https://www.google.com/search?q=csrf) [#exploit](https://www.google.com/search?q=exploit) [#bughunter](https://www.google.com/search?q=bughunter)
 
 ## 🔥 Proff Of Concept 🔥
-Setelah beberapa hari yang lalu saya menemukan dan melaporkan bug **open redirect lead to xss** pada website PB Zepetto dan mendapat hadiah *2M*. Kali ini saya kembali iseng mencari bug pada website tersebut. Saya membuka setiap halaman pada website lalu menemukan halaman *faq*
+Setelah beberapa hari yang lalu saya menemukan dan melaporkan bug **open redirect lead to xss** pada website PB Zepetto dan mendapat hadiah *2M*. Kali ini saya kembali iseng mencari bug pada website tersebut. Saya membuka setiap halaman pada website lalu menemukan halaman *[faq](https://www.pointblank.id/faq/list)*. <br>
 
